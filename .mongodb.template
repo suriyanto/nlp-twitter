@@ -1,0 +1,7 @@
+// (Remove this line afterwards) Format: scheme://login@password:url
+{
+  "scheme": "",
+  "url": "",
+  "login": "",
+  "password": ""
+}
